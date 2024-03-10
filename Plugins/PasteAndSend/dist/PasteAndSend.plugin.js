@@ -95,7 +95,7 @@ var callback = function (tree, props) {
         keyCode: 13,
         which: 13,
         bubbles: true, // Make sure the event bubbles
-        cancelable: false, // Make sure the event is cancelable
+        cancelable: false,
     });
     var copyGroup = tree.props.children[tree.props.children.length - 1];
     copyGroup.props.children.push(BdApi.ContextMenu.buildItem({
@@ -108,8 +108,7 @@ var callback = function (tree, props) {
                 // ...and send
                 setTimeout(function () {
                     var result = target.dispatchEvent(enterEvent);
-                    console.log("result", result);
-                }, 10);
+                }, 75);
                 return [2 /*return*/];
             });
         }); },

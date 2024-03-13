@@ -1,9 +1,9 @@
-### Collection of BetterDiscord Plugins
+# BetterDiscord Plugins
 
-My small collection of plugins (that will hopefully continue to grow...)
+A small collection of plugins for the [BetterDiscord](https://betterdiscord.app/) project.
 
-Current list of plugins:
+## [PasteAndSend](https://github.com/ak-tr/BetterDiscordPlugins/tree/master/Plugins/PasteAndSend)
 
-- PasteAndSend - Adds a "Paste and Send" button to context menus in messages so you don't ever have to touch your keyboard to paste and send a message from your clipboard.
+Adds a "Paste and Send" button to context menus in messages so you don't ever have to touch your keyboard to paste and send a message from your clipboard.
 
-Created by [akif.kr](https://akif.kr)
+##### Created by [akif.kr](https://akif.kr)

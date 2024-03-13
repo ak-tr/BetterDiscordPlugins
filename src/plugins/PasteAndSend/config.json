@@ -1,0 +1,12 @@
+{
+    "main": "index.js",
+    "name": "PasteAndSend",
+    "author": "ak-tr",
+    "authorLink": "https://akif.kr",
+    "version": "1.0.0",
+    "description": "Adds a \"Paste and Send\" button to context menus in message boxes so you don't ever have to touch your keyboard to paste and send a message from your clipboard.",
+    "github": "https://github.com/ak-tr/BetterDiscordPlugins/tree/master/Plugins/PasteAndSend",
+    "github_raw": "https://raw.githubusercontent.com/ak-tr/BetterDiscordPlugins/master/Plugins/PasteAndSend/PasteAndSend.plugin.js",
+    "changelog": [],
+    "defaultConfig": []
+}
